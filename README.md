@@ -1,0 +1,1 @@
+docker build -f net7-aot/Dockerfile -t yxs970707/net7-aot .
